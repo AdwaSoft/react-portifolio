@@ -13,7 +13,7 @@ class App extends Component {
     return (
       <Box className="app">
         <NavBar />
-        <CssBaseline />
+
         <Box
           sx={{
             ml: { xs: 0, sm: 13 },

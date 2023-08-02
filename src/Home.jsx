@@ -73,7 +73,9 @@ const Home = () => {
               Hi i' am{" "}
               <span
                 style={{
-                  padding: "30px",
+                  paddingTop: "30px",
+                  paddingBottom: "30px",
+                  paddingRight: "6px",
                   fontSize: "60px",
                   fontWeight: "bold",
                   color: "#FFD363",
@@ -110,6 +112,7 @@ const Home = () => {
           sx={{
             pl: { xs: 1, sm: 2 },
             pr: { xs: 1, sm: 2 },
+            m: 2,
             pb: 0,
             mr: { xs: 0, sm: 20 },
 
@@ -128,7 +131,8 @@ const Home = () => {
           >
             <img
               style={{
-                width: "420px",
+                width: "350px",
+
                 height: "auto",
                 borderRadius: "100%",
                 border: "1px solid #FFD363",
