@@ -92,7 +92,7 @@ const myProjects = [
     ],
     image: sanshop,
     image2: sanshop2,
-    github_link: "https://github.com/AdwaSoft/SanshopFrontend",
+    github_link: "https://github.com/AdwaSoft/MernStackSanShop",
     demo_link: "https://sanshop.onrender.com/",
   },
   // {
